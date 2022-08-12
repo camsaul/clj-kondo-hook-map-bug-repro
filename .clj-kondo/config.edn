@@ -1,0 +1,1 @@
+{:hooks {:analyze-call {my-ns/special-map hooks.my-ns/special-map}}}
